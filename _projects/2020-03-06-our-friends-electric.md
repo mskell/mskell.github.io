@@ -12,8 +12,7 @@ This work has been exhibited and presented at various national and international
 
 This research through design project focused on the creation of interactive research objects that directly informed workshops and exhibitions throughout the design process with members of the public and professional design audiences providing insights for each iterative development of the work. Six research products were created in this process with the final three voice products going on to be exhibited in three locations internationally further evolving the discussion and awareness of an open, transparent and safe voice enabled internet.
 
-<iframe src="https://vimeo.com/235720958" width="640" height="360" frameborder="0" allowfullscreen></iframe>
-
+<iframe src="https://player.vimeo.com/video/235720958" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
 
 ---
