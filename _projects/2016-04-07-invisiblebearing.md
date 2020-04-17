@@ -1,7 +1,7 @@
 ---
 title: 'Invisible Bearing'
 subtitle: 'Research, Design'
-date: 2020-03-03 00:00:00
+date: 2016-03-03 00:00:00
 description: Invisible Bearing project page on Martin Skelly portfolio website.
 featured_image: '/images/invisiblebearing/ib_feat.jpg'
 ---

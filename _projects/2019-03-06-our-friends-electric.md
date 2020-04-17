@@ -1,7 +1,7 @@
 ---
 title: 'Our Friends Electric'
 subtitle: 'Research, Design'
-date: 2020-03-06 00:00:00
+date: 2019-03-06 00:00:00
 description: Our Friends Electric project page on Martin Skelly portfolio website.
 featured_image: '/images/ofe/ofe_feat.jpg'
 ---

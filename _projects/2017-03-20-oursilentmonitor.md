@@ -1,7 +1,7 @@
 ---
 title: 'Our Silent Monitor'
 subtitle: 'Research, Design, Installation'
-date: 2020-03-20 00:00:00
+date: 2017-03-20 00:00:00
 description: Our Silent Monitor project page on Martin Skelly portfolio website.
 featured_image: '/images/silentmonitors/sm_feat.jpg'
 ---
