@@ -23,7 +23,6 @@ Invisible Bearing celebrates this old tradition and allows visitors to the museu
 </div>
 
 
-## Design Process
 <div class="gallery" data-columns="2">
 	<img src="/images/invisiblebearing/ib_making.jpg">
 	<img src="/images/invisiblebearing/ib_demo.jpg">
@@ -34,8 +33,8 @@ Invisible Bearing celebrates this old tradition and allows visitors to the museu
 Built at the Mozilla Open IoT Studio [Antruther Design Sprint](https://github.com/openiotstudio/general/blob/master/publications/openiot_digitalbook_anstruther.pdf) in 2016. In collaboration with Ali Napier & Dean Taylor from University of Dundee, Stefano Paradiso & Tommaso Laterza from Arduino and Zandr Milewski from Electric Imp. Invisible bearing was a working proof of concept only and was not deployed in the museum.
 
 ---
-### Further information
+## Further information
 
-Read more about [Invisible Bearing](https://github.com/openiotstudio/invisible-bearing) and download the [code](https://github.com/openiotstudio/invisible-bearing) it was running. Or read more about the [Mozilla Open IoT Studio] (https://github.com/openiotstudio/general).
+Read more about [Invisible Bearing](https://github.com/openiotstudio/invisible-bearing) and download the [code](https://github.com/openiotstudio/invisible-bearing) it was running. Or read more about the [Mozilla Open IoT Studio](https://github.com/openiotstudio/general).
 
 ![](/images/invisiblebearing/ib_reaper.jpg)
