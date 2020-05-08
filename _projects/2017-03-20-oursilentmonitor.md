@@ -25,11 +25,11 @@ of the Silent Monitors.  By the end of the festival we created a visual represen
 	<img src="/images/silentmonitors/sm_3.jpg">
 </div>
 
-## Reflective Essay
-A wonderful project write up by Pete Thomas can be read on [the 2017 Dundee Design Festival archived website](https://2017.dundeedesignfestival.com/2017/05/03/our-silent-monitors-pete-thomas/)
 
 ## Featured
 [Design Week - How Dundee is driving social change through design](https://www.designweek.co.uk/issues/12-18-june-2017/dundee-driving-social-change-design/)
+
+A wonderful project write up by Pete Thomas can be read on [the 2017 Dundee Design Festival archived website](https://2017.dundeedesignfestival.com/2017/05/03/our-silent-monitors-pete-thomas/)
 
 [Dundee Courier - Gearing up for Dundee Design Festival](https://www.thecourier.co.uk/fp/lifestyle/design/432010/gearing-dundee-design-festival/)
 

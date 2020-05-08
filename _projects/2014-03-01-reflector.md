@@ -1,7 +1,7 @@
 ---
 title: 'Reflector'
 subtitle: 'Research, Design, Product'
-date: 2014-01-01 00:00:00
+date: 2014-03-01 00:00:00
 description: Reflector project page on Martin Skelly portfolio website.
 featured_image: '/images/reflector/ref_feat.jpg'
 ---

@@ -3,7 +3,7 @@ title: 'HappyHere'
 subtitle: 'Research, Design'
 date: 2020-03-03 00:00:00
 description: HappyHere project page on Martin Skelly portfolio website.
-featured_image: '/images/happyhere/hh_feat.jpg'
+featured_image: '/images/happyhere/hh_feat2.jpg'
 ---
 
 HappyHere was a participatory, immersive light installation, created for Pig Rock Bothy, which used colour and light to visualise thoughts and feelings. The technology turned visitor’s answers to seven simple questions into a narrative of light and colour, featured on a custom-built screen in the installation. After dark, Pig Rock Bothy became a beacon of coloured light, replaying all of the feelings recorded by it during the day and transmitting it out into the night sky.

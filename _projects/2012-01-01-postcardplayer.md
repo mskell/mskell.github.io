@@ -2,7 +2,7 @@
 title: 'Postcard Player'
 subtitle: 'Research, Design, Product'
 date: 2012-01-01 00:00:00
-description: Ppostcard Player project page on Martin Skelly portfolio website.
+description: Postcard Player project page on Martin Skelly portfolio website.
 featured_image: '/images/postcard/pp_feat.jpg'
 ---
 
