@@ -5,6 +5,13 @@ description: Research and portfolio website for Martin Skelly
 featured_image:
 ---
 
+
+#### Clarke, L., George, B., Raj, R., Rogers, J., Singh, N., Skelly, M. & Thomas, P. (2021). *Learning to speak to an elephant and other stories of decentralised digital futures*. Translated title of the contribution: ಆನೆಯೊಡನೆ ಮಾತಾಡುವ ಬಗ್ಗೆ ಮತ್ತು ವಿಕೇಂದ್ರೀ ಕೃತ ಭವಿಷ್ಯದ ಕುರಿತು ಇತರ ಕಥೆಗಳು.* Brand Mavericks, India; Pressision, UK: University of Dundee.
+
+#### Taylor, N., Rogers, J., Clarke, L., Skelly, M., Wallace, J., Thomas, P., George, B., Raj, R., Shorter, M. & Thorne, M. (2021). *Prototyping Things: Reflecting on Unreported Objects of Design Research for IoT.* Designing Interactive Systems Conference, 2021. ACM Press, p. 1807-1816 10 p.
+
+#### Rogers, J., Clarke, L., Skelly, M., Taylor, N., Thomas, P., Thorne, M., Larsen, S., Odrozek, K., Kloiber, J., Bihr, P., Jain, A., Arden, J. & von Grafenstein, M. (2019). *Our Friends Electric: Reflections on Advocacy and Design Research for the Voice Enabled Internet.* CHI 2019: Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems. New York: Association for Computing Machinery, p. 1-12 12 p. 114.
+
 #### Taylor, N., Clarke, L., Skelly, M. and Nevay, S. (2018). *Strategies for Engaging Communities in Creating Physical Civic Technologies.* CHI 2018: Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems. New York: Association for Computing Machinery, p. 1-12 Paper 507  
 
 #### Wallace, J., Rogers, J., Shorter, M., Thomas, P., Skelly, M. and Cook, R. (2018). *The Self-Reflector: Design, IoT and the high street.* CHI 2018 – Extended Abstracts of the 2018 CHI Conference on Human Factors in Computing Systems: Engage with CHI. Association for Computing Machinery (ACM), Vol. 2018-April, 12 p. 423  
