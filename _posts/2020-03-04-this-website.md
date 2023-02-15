@@ -5,11 +5,6 @@ description: Blog post explaining how to create a github pages hosted website.
 featured_image: '/images/blog/greyabstract.jpg'
 ---
 
-
-This website has been generated with [jekyll](https://github.com/jekyll/jekyll) using the [duet](https://jekyllthemes.io/theme/duet-portfolio-jekyll-theme) theme and is hosted for free on [github](https://guides.github.com/features/pages/) pages.
-
-___
-
 #### These tutorials were extremely useful in getting set up - a million thanks to the authors.
 
 - [https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages](https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages)

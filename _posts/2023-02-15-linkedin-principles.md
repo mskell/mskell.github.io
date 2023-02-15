@@ -1,14 +1,9 @@
 ---
-title: 'A reflection on LinkedIn for academic practice'
+title: 'LinkedIn for academic practice'
 date: 2023-02-15 00:00:00
 description: A reflection on LinkedIn for academic practice.
 featured_image: '/images/blog/network.jpg'
 ---
-
-
-This website has been generated with [jekyll](https://github.com/jekyll/jekyll) using the [duet](https://jekyllthemes.io/theme/duet-portfolio-jekyll-theme) theme and is hosted for free on [github](https://guides.github.com/features/pages/) pages.
-
-___
 
 ## 2023 reflections on using LinkedIn for academic practice...
 
