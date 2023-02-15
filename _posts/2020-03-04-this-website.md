@@ -1,8 +1,8 @@
 ---
-title: 'This site'
+title: 'Building this website'
 date: 2020-03-04 00:00:00
 description: Blog post explaining how to create a github pages hosted website.
-featured_image: '/images/blog/orange.jpg'
+featured_image: '/images/blog/greyabstract.jpg'
 ---
 
 
@@ -26,3 +26,5 @@ ___
 #### Additional premium portfolio themes that were considered:
 - [https://made.jekyllthemes.io/](https://made.jekyllthemes.io/)
 - [https://index.jekyllthemes.io/](https://index.jekyllthemes.io/)
+
+Grey Abstract photo by [Shapelined](https://unsplash.com/@shapelined?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/_JBKdviweXI?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
