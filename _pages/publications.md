@@ -5,6 +5,9 @@ description: Research and portfolio website for Martin Skelly
 featured_image:
 ---
 
+#### Wallace, J., Marshall, J., Verkerk,J., Heslop,P., Clarke, L., & Skelly, M. (2024). *Entangled Threads: Exploring the value and significance of bringing a craft ethos to debates around the IoT/connected things.* In Proceedings of the Eighteenth International Conference on Tangible, Embedded, and Embodied Interaction (TEI '24). Association for Computing Machinery, New York, NY, USA, Article 60, 1–4. [https://doi.org/10.1145/3623509.3634746](https://doi.org/10.1145/3623509.3634746)
+
+#### McMurchy, G, Taylor, N & Skelly, M. (2023) *Speculative Machines Exploring Contemporary Data Futures*, ACM CHI Conference on Human Factors in Computing Systems, Hamburg , Germany (2023).
 
 #### Clarke, L., George, B., Raj, R., Rogers, J., Singh, N., Skelly, M. & Thomas, P. (2021). *Learning to speak to an elephant and other stories of decentralised digital futures*. Translated title of the contribution: ಆನೆಯೊಡನೆ ಮಾತಾಡುವ ಬಗ್ಗೆ ಮತ್ತು ವಿಕೇಂದ್ರೀ ಕೃತ ಭವಿಷ್ಯದ ಕುರಿತು ಇತರ ಕಥೆಗಳು.* Brand Mavericks, India; Pressision, UK: University of Dundee.
 
