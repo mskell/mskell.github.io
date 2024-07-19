@@ -5,6 +5,9 @@ description: Research and portfolio website for Martin Skelly
 featured_image:
 ---
 
+#### Skelly, M., Thomas, P. (2024). *Reflections on the design of HappyHere, a digital installation facilitating participation, reflection and discussion on wellbeing data in the Arts sector.* In Proceedings of the 7th International Conference on Design4Health. Lab4Living, Sheffield Hallam University, Sheffield, United Kingdom. 25th-27th June 2024
+[https://lab4living.org.uk/design4health/](https://lab4living.org.uk/design4health/)
+
 #### Wallace, J., Marshall, J., Verkerk,J., Heslop,P., Clarke, L., & Skelly, M. (2024). *Entangled Threads: Exploring the value and significance of bringing a craft ethos to debates around the IoT/connected things.* In Proceedings of the Eighteenth International Conference on Tangible, Embedded, and Embodied Interaction (TEI '24). Association for Computing Machinery, New York, NY, USA, Article 60, 1–4. [https://doi.org/10.1145/3623509.3634746](https://doi.org/10.1145/3623509.3634746)
 
 #### McMurchy, G, Taylor, N & Skelly, M. (2023) *Speculative Machines Exploring Contemporary Data Futures*, ACM CHI Conference on Human Factors in Computing Systems, Hamburg , Germany (2023).
