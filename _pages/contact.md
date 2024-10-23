@@ -7,6 +7,5 @@ featured_image:
 
 ### Let's work together - I'm interested in discussing research collaborations or teaching exchanges.
 
-Please use contact form below to get in touch, or message me on [linkedin](https://www.linkedin.com/in/martinskelly/).
 
-{% include contact-form.html %}
+Please get in touch if you would like to discuss a research collaboration at martin.skelly.contact @ gmail . com (without the spaces) or connect with me on [LinkedIn](https://www.linkedin.com/in/martinskelly/).
