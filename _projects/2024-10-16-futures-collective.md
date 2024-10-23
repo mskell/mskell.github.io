@@ -18,13 +18,14 @@ This project was published as it emerged on a website that enabled us to promote
 <div class="gallery" data-columns="3">
 	<img src="/images/futurescollective/futurescollective_kiosk1.jpg">
 	<img src="/images/futurescollective/futurescollective_kiosk2.jpg">
+	<img src="/images/futurescollective/futurescollective_ex4.jpg">
 	<img src="/images/futurescollective/futurescollective_poster1.jpg">
 	<img src="/images/futurescollective/futurescollective_poster2.jpg">
 	<img src="/images/futurescollective/futurescollective_poster3.jpg">
 	<img src="/images/futurescollective/futurescollective_ex1.jpg">
 	<img src="/images/futurescollective/futurescollective_ex2.jpg">
 	<img src="/images/futurescollective/futurescollective_ex3.jpg">
-	<img src="/images/futurescollective/futurescollective_ex4.jpg">
+	
 </div>
 
 ---
